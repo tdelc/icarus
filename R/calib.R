@@ -2,7 +2,7 @@
 #### All functions in this file are private methods used by the
 #### "calibration" function
 
-# Test
+## TEST 2
 
 # Function Wrapper
 calib <- function(Xs, d, total, q=NULL, method=NULL, bounds = NULL,
@@ -158,4 +158,10 @@ inverseDistanceLogit <- function(x, bounds) {
 
 # TODO : hyperbolic sine
 # TODO : maybe truncated method ?
+
+# %do;
+# _som_=1+ xlambda*&pondqk;
+# _f_=max(&lo,_som_)+min(&up,_som_)-_som_; drop _som_;
+# %end;
+# https://github.com/InseeFr/Calmar/blob/main/Calmar.sas
 
