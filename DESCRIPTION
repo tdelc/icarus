@@ -6,7 +6,7 @@ Description: Provides user-friendly tools for calibration in survey sampling.
     'icarus'. In addition to calibration (with linear, raking and logit methods),
     'icarus' features functions for calibration on tight bounds and penalized
     calibration.
-Version: 0.3.2
+Version: 0.3.3
 Authors@R: c(person("Antoine Rebecq", role=c("aut"), email = "antoine.rebecq@m4x.org", comment = "Creator"),
   person("Khaled", "Larbi", role =  "cre", email = "khaled.larbi@insee.fr"),
   person("Institut national de la statistique et des études économiques", role = "cph"))
