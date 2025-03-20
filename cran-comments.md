@@ -1,6 +1,6 @@
 ## Test environments
 * Ubuntu 20.04, R 4.3.0
-* win-builder (devel and release)
+* win-builder (devel, release and oldrelease)
 
 ## R CMD check results
 There were no ERRORs or WARNINGs. 
